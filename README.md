@@ -30,4 +30,4 @@ While top-tier doctors are concentrated in cities, rural areas suffer from a lac
    ```
 
 ## 🌐 Live Hosted Link
-*(Your Live Vercel/Netlify Link Here)*
+**https://mini-healthcare-support-web-app-eight.vercel.app**
